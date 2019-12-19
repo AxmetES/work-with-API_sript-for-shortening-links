@@ -1,0 +1,5 @@
+#ignored files and folders
+/.idea
+/__pycach__
+/dev_rest_api-env
+.env
