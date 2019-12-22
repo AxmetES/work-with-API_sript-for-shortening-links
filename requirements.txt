@@ -4,3 +4,5 @@ idna==2.8
 python-dotenv==0.10.3
 requests==2.22.0
 urllib3==1.25.7
+
+#создал виртуальное окружение заново , установил только python-dotenv, requests
