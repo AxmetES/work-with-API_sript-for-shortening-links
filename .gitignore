@@ -2,4 +2,5 @@
 /.idea
 /__pycach__
 /dev_rest_api-env
+/rest_api
 .env
