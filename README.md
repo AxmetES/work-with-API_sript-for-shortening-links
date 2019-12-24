@@ -1,4 +1,4 @@
-## Script for working with IPA Bite.ly
+## Script for working with API Bite.ly
 
 Project for shortening links and calculating the amount of clicks
 
@@ -33,12 +33,7 @@ The project is an assignment in online courses [Devman](https://dvmn.org/modules
 
 The script is run from the command line
 ```python
-python bit_ly.py (your parameter)
-```
-
-
-```python
-python devman_bot.py
+python bit_ly.py (your link)
 ```
 
 ## License
