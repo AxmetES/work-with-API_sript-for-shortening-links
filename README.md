@@ -12,7 +12,7 @@ pip install -r requirements.txt
 Register and get the TOKEN from the site https://dev.bitly.com/index.html
 
 ```python
-TOKEN='your token'
+TOKEN_BITLY='your token'
 ```
 you extract it in the code with package import os
 
